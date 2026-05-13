@@ -1,2 +1,12 @@
 # Project exclude paths
 /.gradle/
+
+# Android / Gradle generated outputs
+/build/
+/app/build/
+**/build/
+
+# Local machine files
+local.properties
+*.iml
+.idea/
