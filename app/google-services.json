@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356977990125",
+    "project_id": "nammashaaleinventoryapp-bb957",
+    "storage_bucket": "nammashaaleinventoryapp-bb957.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356977990125:android:8d787ffbf0ca674038efe4",
+        "android_client_info": {
+          "package_name": "com.example.nammashaaleinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuFFvMC2EYf2-Ul9JCNHLqtZEI7n5fZb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
