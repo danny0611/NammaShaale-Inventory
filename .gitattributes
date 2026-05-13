@@ -1,0 +1,8 @@
+# Keep GitHub language stats focused on handwritten source.
+*.kt linguist-language=Kotlin
+*.kts linguist-language=Kotlin
+
+# Generated Android/Gradle files should never count as project language.
+app/build/** linguist-generated=true
+build/** linguist-generated=true
+**/build/** linguist-generated=true
