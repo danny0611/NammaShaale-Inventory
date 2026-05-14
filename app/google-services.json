@@ -12,7 +12,20 @@
           "package_name": "com.example.nammashaaleinventory"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "356977990125-m2j827b070qe44nl6dfo5lkcfbn52a2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nammashaaleinventory",
+            "certificate_hash": "12828c287613e8f2e0d1bdd88b4fade2df8393a8"
+          }
+        },
+        {
+          "client_id": "356977990125-edancrr1it1rivoo8pc4cdihliur1060.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBuFFvMC2EYf2-Ul9JCNHLqtZEI7n5fZb4"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356977990125-edancrr1it1rivoo8pc4cdihliur1060.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
